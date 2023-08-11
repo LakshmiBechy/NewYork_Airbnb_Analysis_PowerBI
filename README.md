@@ -1,4 +1,4 @@
-# New York City Airbnb Data Analysis with Power BI
+# New York City Airbnb Data (2019) Analysis with Power BI
 ## Introduction
 
 This dataset offers a comprehensive collection of information regarding Airbnb accommodations in the bustling city.It includes key details such as listing IDs, names of listings and hosts, location information including neighbourhood groups and specific areas,room types, availability of listing and pricing in dollars.
