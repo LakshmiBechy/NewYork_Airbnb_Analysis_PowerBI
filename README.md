@@ -44,6 +44,7 @@ Tooltip information breaks down the average price in each neighborhood group, en
 
 This comprehensive analysis provides valuable insights into the Airbnb landscape in New York City, highlighting popular neighborhoods, room type preferences, and pricing dynamics across different neighborhood groups.
 
+Data Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 ![Airbnb_report](https://github.com/LakshmiBechy/NewYork_Airbnb_Analysis_PowerBI/assets/132912492/0cd99b59-d584-466d-be4b-8188af2e5b78)
 
